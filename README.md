@@ -1,2 +1,3 @@
-# flutter_study
-flutter study project
+# flutter_application_1
+
+A new Flutter project.
